@@ -25,7 +25,8 @@ The dataset contains 8,523 records and includes product and outlet-related infor
 
 Sales varied across outlet categories. Supermarket Type 3 generally achieved higher sales values, while Grocery Stores showed lower sales performance. This indicates that outlet characteristics contribute significantly to predicting product sales.
 
-![Outlet Analysis](images/outlet_sales.png)
+<img width="804" height="470" alt="image" src="https://github.com/user-attachments/assets/c8c0891d-ca4f-4f7a-b38c-52cd7f46f0af" />
+
 
 ---
 
@@ -33,7 +34,8 @@ Sales varied across outlet categories. Supermarket Type 3 generally achieved hig
 
 The correlation heatmap indicates that Item_MRP has the strongest positive relationship with Item_Outlet_Sales (correlation ≈ 0.57), while the remaining numerical variables showed relatively weak relationships. This suggests that product pricing is an important predictor of sales.
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+<img width="936" height="853" alt="image" src="https://github.com/user-attachments/assets/bde9e452-fe62-4b2c-8cb8-8dcc3136231d" />
+
 
 ---
 
